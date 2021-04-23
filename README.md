@@ -21,6 +21,7 @@ composer require guzzlehttp/guzzle
 (https://pypi.org/project/beautifulsoup4/)
 https://docs.guzzlephp.org/en/stable/
 
+![magz preview](https://drive.google.com/file/d/1e05W_lyYM22kNmvLZic33B8Lshj96tPz/view?usp=sharing)
 
 # Credits
 Some components in magz are created by us, but most of them are made by some authors of these plugins, images and fonts. So thank them too. For making something amazing.
@@ -38,5 +39,6 @@ Some components in magz are created by us, but most of them are made by some aut
 - Font: Raleway by Multiple Designers
 - Font: Merriweather by Sorkin Type
 - All Images by Pexels
+
 
 
