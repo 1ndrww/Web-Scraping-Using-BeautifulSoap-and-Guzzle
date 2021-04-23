@@ -40,5 +40,12 @@ Some components in magz are created by us, but most of them are made by some aut
 - Font: Merriweather by Sorkin Type
 - All Images by Pexels
 
+![Screenshot_49](https://user-images.githubusercontent.com/80109631/115889345-b64b1680-a408-11eb-9e50-adad343ac5a7.png)
+![Screenshot_50](https://user-images.githubusercontent.com/80109631/115889362-b8ad7080-a408-11eb-9853-45eb1b1bad1a.png)
+![Screenshot_51](https://user-images.githubusercontent.com/80109631/115889366-b9de9d80-a408-11eb-8ad5-814666ca418f.png)
+![Screenshot_52](https://user-images.githubusercontent.com/80109631/115889371-ba773400-a408-11eb-8c21-a9ccc161ba57.png)
+![Screenshot_35](https://user-images.githubusercontent.com/80109631/115889540-e2ff2e00-a408-11eb-88b6-4a4ab01fdf41.png)
+![Screenshot_36](https://user-images.githubusercontent.com/80109631/115889549-e4c8f180-a408-11eb-9ca9-37a55aaae2be.png)
+![Screenshot_37](https://user-images.githubusercontent.com/80109631/115889554-e5618800-a408-11eb-884e-5bf716603e71.png)
 
 
