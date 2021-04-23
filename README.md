@@ -4,42 +4,10 @@ Web Scraping Using Python BS4 and GuzzleHTTP PHP
 
 
 # Installation
-Let's make it easy! Just download this template, use it on your project.
+pip install bs4
+composer require guzzlehttp/guzzle
 
-# Features
-- Fully Responsive
-- Latest Bootstrap 3
-- Built in HTML5 & CSS3
-- SASS/SCSS
-- Ion Icons (Font Icons)
-- Google Fonts
-- 20+ Social Media Buttons
-- Available 14 Pages
-- Home
-- Detail Article
-- Category
-- Search
-- Pages
-- Contact
-- Login
-- Register
-- Forgot Password
-- Reset Password
-- 403 Error Page
-- 404 Error Page
-- 500 Error Page
-- 503 Error Page
-- Working Contact Form With PHPMailer
-- Unlimited Color Skins
-- Cross-browser Compatibillity
-- Documented
-- jQuery
-- Owl Carousel
-- EaseScroll.JS
-- iCheck.JS
-- Magnific Popup
-- Sweet Alert
-- More ...
+
 
 # Browser Support
 - Google Chrome (latest)
@@ -50,13 +18,9 @@ Let's make it easy! Just download this template, use it on your project.
 - Microsoft Edge
 
 # Documentation
-[Hit me](https://pypi.org/project/beautifulsoup4/)
+(https://pypi.org/project/beautifulsoup4/)
 https://docs.guzzlephp.org/en/stable/
-# Demo
-[Hit Me](http://magz.multinity.com)
 
-# Report Some Bugs
-Find a Bug? Please, create an issue and we'll fix it together for a better template.
 
 # Credits
 Some components in magz are created by us, but most of them are made by some authors of these plugins, images and fonts. So thank them too. For making something amazing.
@@ -75,5 +39,4 @@ Some components in magz are created by us, but most of them are made by some aut
 - Font: Merriweather by Sorkin Type
 - All Images by Pexels
 
-# License
-[Will you read this?](https://github.com/nauvalazhar/Magz/blob/master/LICENSE)
+
